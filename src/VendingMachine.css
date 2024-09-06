@@ -1,0 +1,10 @@
+.vending-machine {
+    height: 775px;
+    margin: 10px 35%;
+    position: absolute
+}
+
+.options {
+    position: absolute;
+    margin: 100px 68%;
+}

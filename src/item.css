@@ -1,0 +1,10 @@
+.item {
+    width: 300px;
+    margin: 60px 35%;
+    position: absolute;
+}
+
+.back {
+    margin: 60px 15%;
+    position: fixed;
+}
